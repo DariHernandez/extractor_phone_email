@@ -1,14 +1,14 @@
 Metadata-Version: 2.1
 Name: extractor-phone-email
-Version: 1.0.0
+Version: 1.0.2
 Summary: Package that allows, with regular expressions, to extract from texts, phone numbers and emails
 Home-page: UNKNOWN
 Author: Dari Developer
 Author-email: hernandezdarifrancisco@gmail.com
 License: MIT
-Project-URL: Source, https://github.com/DariHernandez/phone_and_email_extractor
 Project-URL: Documentation, https://github.com/DariHernandez/phone_and_email_extractor/blob/master/README.md
 Project-URL: Funding, https://www.paypal.com/paypalme/FranciscoDari
+Project-URL: Source, https://github.com/DariHernandez/phone_and_email_extractor
 Description: # Extractor_phone_email
         Extract return from text or clipboard emails and phone numbers
         

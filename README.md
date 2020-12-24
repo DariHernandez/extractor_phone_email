@@ -4,12 +4,12 @@ Extract return from text or clipboard emails and phone numbers
 ## Install
 
 ``` bash
-pip install extractor-phone-email
+$ pip install extractor-phone-email
 ```
 
 ## How to use
 
-``` bash
+``` python
 # Import pakage
 from extractor_phone_email import extractor
 
