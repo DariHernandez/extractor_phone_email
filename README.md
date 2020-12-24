@@ -1,5 +1,5 @@
 # Extractor_phone_email
-Extract return from text or clipboard emails and phone numbers
+Get from text or clipboard emails and phone numbers
 
 ## Install
 

@@ -9,7 +9,7 @@ with open(os.path.join(this_directory, 'README.md')) as f:
 
 setup (
 	name = "extractor_phone_email",
-	version = "1.0.2", 
+	version = "1.0.3", 
 	description = "Package that allows, with regular expressions, to extract from texts, phone numbers and emails",
 	long_description = long_description,
 	long_description_content_type = "text/markdown",
